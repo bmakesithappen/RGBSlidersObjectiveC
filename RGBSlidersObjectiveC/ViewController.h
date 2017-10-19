@@ -10,5 +10,7 @@
 
 @interface ViewController : UIViewController
 
+// TODO: Add properties (sliders, square)  , method for update background color, saving userDefaults, add code for segue
+
 @end
 
